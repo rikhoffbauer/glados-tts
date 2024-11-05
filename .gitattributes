@@ -1,0 +1,2 @@
+sherpa-onnx-wasm-main-tts.data filter=lfs diff=lfs merge=lfs -text
+sherpa-onnx-wasm-main-tts.wasm filter=lfs diff=lfs merge=lfs -text
